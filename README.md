@@ -15,6 +15,10 @@ Jotta voit muokata koodia tarvitset tietokoneellesi Java Development kit:n ja ha
 
 Pelataksesi matopeliä, lataa Matopeli.jar tiedosto koneellesi ja suorita se.
 
+## Käyttöohjeet
+
+Peliä ohjataan nuolinäppäimillä.
+
 ## Apuna käytetty
 
 * [JFrame]( https://docs.oracle.com/javase/7/docs/api/javax/swing/JFrame.html) – Pelin ikkunan luominen
