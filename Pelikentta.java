@@ -101,7 +101,7 @@ public class Pelikentta extends JPanel implements Runnable, KeyListener{
 	
 		//Tormays seinaan
 		if(xKoord < 0 || xKoord > 49 || yKoord < 0 || yKoord > 49){
-		System.out.println("Game Over");
+		System.out.println("Requiescat in pace Kari Kastemato");
 		stop();
 		}
 	
